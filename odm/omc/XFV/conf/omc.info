@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-A260F_OJM_XFV_OO_0020</version>
+  <model>
+    <name>SM-A260F</name>
+  </model>
+  <common>
+    <charging>Charge</charging>
+    <networkBearer>All</networkBearer>
+    <optionalApp>checked</optionalApp>
+  </common>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0005</customerEdition>
+    <others>no</others>
+    <cscfeature>yes</cscfeature>
+    <cscfeaturenetwork>yes</cscfeaturenetwork>
+    <cp>no</cp>
+    <language>no</language>
+    <apps>no</apps>
+    <resources>no</resources>
+    <defaultWorkspace>no</defaultWorkspace>
+    <defaultApplicationOrder>no</defaultApplicationOrder>
+    <imsupdate>no</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>6</carrierCount>
+    <carrier>
+      <mcc>651</mcc>
+      <mnc>01</mnc>
+      <networkName>Vodacom Lesotho</networkName>
+    </carrier>
+    <carrier>
+      <mcc>655</mcc>
+      <mnc>01</mnc>
+      <networkName>Vodacom</networkName>
+    </carrier>
+    <carrier>
+      <mcc>655</mcc>
+      <mnc>02</mnc>
+      <networkName>TelkomSA</networkName>
+    </carrier>
+    <carrier>
+      <mcc>655</mcc>
+      <mnc>07</mnc>
+      <subsetCode>10</subsetCode>
+      <networkName>Virgin</networkName>
+    </carrier>
+    <carrier>
+      <mcc>655</mcc>
+      <mnc>07</mnc>
+      <networkName>Cell C</networkName>
+    </carrier>
+    <carrier>
+      <mcc>655</mcc>
+      <mnc>10</mnc>
+      <networkName>MTN</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>
